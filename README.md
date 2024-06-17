@@ -18,7 +18,7 @@ Encontre os repositórios que você mais precisa. <br/>
 <br>
 
  <p align="center">
-  <img alt="Projeto 01" src="" width="100%">
+  <img alt="Projeto 01" src="https://github.com/andrvss/ReParty/assets/110691699/8ce80741-4ada-466d-91c5-343e2dd3617e" width="100%">
 </p> 
 
 ## 🚀 Tecnologias
